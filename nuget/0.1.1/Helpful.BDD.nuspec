@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Helpful.BDD</id>
+    <version>0.1.1</version>
+    <title>Helpful.BDD</title>
+    <authors>RokitSalad</authors>
+    <owners>RokitSalad</owners>
+    <licenseUrl>https://github.com/RokitSalad/Helpful.BDD/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RokitSalad/Helpful.BDD</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple BDD class collection for use with NUnit</description>
+    <releaseNotes>Reduced .NET vesion to 4 to allow greater compatibility.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>NUnit BDD</tags>
+    <dependencies>
+      <dependency id="NUnit" />
+    </dependencies>
+  </metadata>
+</package>
