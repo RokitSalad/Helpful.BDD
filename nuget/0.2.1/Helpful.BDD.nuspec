@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Helpful.BDD</id>
+    <version>0.2.1</version>
+    <title>Helpful.BDD</title>
+    <authors>RokitSalad</authors>
+    <owners>RokitSalad</owners>
+    <licenseUrl>https://github.com/RokitSalad/Helpful.BDD/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RokitSalad/Helpful.BDD</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple BDD class collection for use with NUnit</description>
+    <releaseNotes>Fixed a bug where NUnit was referenced by specific version - made it very difficult to work in a multi project solution.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>NUnit BDD</tags>
+    <dependencies>
+      <dependency id="NUnit" version="(,4)" />
+    </dependencies>
+  </metadata>
+</package>
